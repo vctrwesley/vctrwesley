@@ -4,8 +4,6 @@ Olá! 👋 Meu nome é Victor Wesley, estudante de Ciência da Computação na U
 
 ## Interesses e Experiências
 
-Estou muito interessado em me candidatar para uma das vagas disponíveis, pois me identifico com as áreas que pretendo seguir profissionalmente e que fazem parte do meu dia a dia.
-
 Ao longo da minha jornada acadêmica e pessoal, adquiri conhecimentos em diversas áreas, tais como:
 
 - Banco de dados
@@ -27,9 +25,3 @@ Além disso, tenho afinidade com as linguagens **Python** e **C++**, e experiên
 - MySQL
 
 Utilizo essas ferramentas em projetos pessoais, trabalhos de disciplinas durante o curso e no projeto GARU, onde atuo como **marketing**, **UI/UX designer** e **Banco de dados**.
-
-## Compromisso e Atualização
-
-Estou entusiasmado com a possibilidade de aplicar meus conhecimentos e habilidades em uma posição dentro do projeto. Mantenho-me sempre atualizado sobre as tendências e boas práticas, buscando constantemente melhorar meu aprendizado e conhecimento.
-
-Acredito que posso contribuir significativamente para o projeto, trabalhando em parceria com toda a equipe e gerando resultados positivos. Agradeço desde já pela consideração da minha candidatura.
