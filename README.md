@@ -28,11 +28,16 @@ Atualmente, tenho focado e me aprimorado nas áreas de **UI/UX Design** e **Fron
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-001F3F?style=for-the-badge&logo=react&logoColor=white)
 
-## Ferramentas de Design e Banco de Dados
+## Ferramentas de Design
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+##Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-0077B5?style=for-the-badge&logo=pgadmin&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+##Estudando no momento
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
