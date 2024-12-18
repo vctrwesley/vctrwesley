@@ -1,6 +1,6 @@
 # Apresentação
 
-Olá! 👋 Meu nome é Victor Wesley, estudante de Ciência da Computação na UFC - Campus de Russas. Trabalhei em semestres passados como monitor das disciplinas de Algoritmos em Grafos e Fundamentos da Programação. Além disso, faço parte do time GARU, um projeto dentro do Laboratório de Tecnologias Inovadoras (LTI).
+Olá! 👋 Meu nome é Victor Wesley, estudante de Ciência da Computação na UFC - Campus de Russas e Front-end Developer. Trabalhei em semestres passados como monitor das disciplinas de Algoritmos em Grafos e Fundamentos da Programação. Além disso, atuo em dois projetos dentro do Laboratório de Tecnologias Inovadoras (LTI).
 
 ## Interesses e Experiências
 
@@ -11,6 +11,7 @@ Ao longo da minha jornada acadêmica e pessoal, adquiri conhecimentos em diversa
 - Lógica para programação
 - Marketing
 - Usabilidade
+- Desenvolvimento web
 
 Atualmente, tenho focado e me aprimorado nas áreas de **UI/UX Design** e **Front-end**. Tenho dedicado tempo a estudos independentes para aprimorar minhas habilidades e iniciado alguns projetos pessoais.
 
@@ -22,11 +23,13 @@ Atualmente, tenho focado e me aprimorado nas áreas de **UI/UX Design** e **Fron
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## FrontEnd
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-001F3F?style=for-the-badge&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Ferramentas de Design
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -39,5 +42,5 @@ Atualmente, tenho focado e me aprimorado nas áreas de **UI/UX Design** e **Fron
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Estudando no momento
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Nest](https://img.shields.io/badge/Nest-DD0031?style=for-the-badge&logo=nest&logoColor=white)
+
