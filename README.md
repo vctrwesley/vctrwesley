@@ -42,5 +42,6 @@ Atualmente, tenho focado e me aprimorado nas áreas de **UI/UX Design** e **Fron
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Estudando no momento
-![Nest](https://img.shields.io/badge/Nest-DD0031?style=for-the-badge&logo=nest&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest-DD0031?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
